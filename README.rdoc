@@ -1,1 +1,3 @@
 This is the repository for the first beta-blog app of the complete Ruby on Rails Developer course.
+
+The application can be viewd at: https://beta-blog-janelle.herokuapp.com/
